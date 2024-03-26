@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'rgb(18, 18, 18)',
     justifyContent: 'center',
-    paddingHorizontal: 20
+    paddingHorizontal: 20,
   },
   
   letra: {
